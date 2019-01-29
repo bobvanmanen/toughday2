@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.adobe.qe</groupId>
-    <artifactId>toughday2</artifactId>
+    <artifactId>nui-toughday2</artifactId>
     <packaging>jar</packaging>
-    <version>0.9.3-SNAPSHOT</version>
+    <version>0.9.4</version>
     <name>toughday2</name>
 
     <licenses>
@@ -137,7 +137,7 @@
                 <version>2.22.0</version>
                 <configuration>
                     <dependenciesToScan>
-                        <dependency>com.adobe.qe:toughday2-api</dependency>
+                        <dependency>com.adobe.qe:nui-toughday2-api</dependency>
                     </dependenciesToScan>
                 </configuration>
             </plugin>
@@ -159,13 +159,13 @@
         </dependency>
         <dependency>
             <groupId>com.adobe.qe</groupId>
-            <artifactId>toughday2-api</artifactId>
-            <version>0.9.3-SNAPSHOT</version>
+            <artifactId>nui-toughday2-api</artifactId>
+            <version>0.9.4</version>
         </dependency>
         <dependency>
             <groupId>com.adobe.qe</groupId>
-            <artifactId>toughday2-api</artifactId>
-            <version>0.9.3-SNAPSHOT</version>
+            <artifactId>nui-toughday2-api</artifactId>
+            <version>0.9.4</version>
             <type>test-jar</type>
         </dependency>
         <dependency>
