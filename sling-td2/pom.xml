@@ -5,15 +5,15 @@
 
     <parent>
         <groupId>com.adobe.qe</groupId>
-        <artifactId>toughday2-tests-parent</artifactId>
-        <version>0.9.2</version>
+        <artifactId>nui-toughday2-tests-parent</artifactId>
+        <version>0.9.4</version>
         <relativePath>../toughday2-tests-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.adobe.qe</groupId>
-    <artifactId>sling-td2</artifactId>
-    <version>0.9.3-SNAPSHOT</version>
+    <artifactId>nui-sling-td2</artifactId>
+    <version>0.9.4</version>
 
     <licenses>
         <license>

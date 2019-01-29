@@ -170,8 +170,8 @@
         </dependency>
         <dependency>
             <groupId>com.adobe.qe</groupId>
-            <artifactId>aem-td2-core-tests</artifactId>
-            <version>0.9.3-SNAPSHOT</version>
+            <artifactId>nui-aem-td2-core-tests</artifactId>
+            <version>0.9.4</version>
         </dependency>
         <!-- Force third-party libraries to use slf4j -->
         <dependency>

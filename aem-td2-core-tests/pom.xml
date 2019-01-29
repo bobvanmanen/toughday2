@@ -4,14 +4,14 @@
 
     <parent>
         <groupId>com.adobe.qe</groupId>
-        <artifactId>toughday2-tests-parent</artifactId>
-        <version>0.9.3-SNAPSHOT</version>
+        <artifactId>nui-toughday2-tests-parent</artifactId>
+        <version>0.9.4</version>
         <relativePath>../toughday2-tests-parent/pom.xml</relativePath>
     </parent>
 
     <groupId>com.adobe.qe</groupId>
-    <artifactId>aem-td2-core-tests</artifactId>
-    <version>0.9.3-SNAPSHOT</version>
+    <artifactId>nui-aem-td2-core-tests</artifactId>
+    <version>0.9.4</version>
 
     <licenses>
         <license>
@@ -88,8 +88,8 @@
         </dependency>
         <dependency>
             <groupId>com.adobe.qe</groupId>
-            <artifactId>sling-td2</artifactId>
-            <version>0.9.3-SNAPSHOT</version>
+            <artifactId>nui-sling-td2</artifactId>
+            <version>0.9.4</version>
         </dependency>
     </dependencies>
 </project>
